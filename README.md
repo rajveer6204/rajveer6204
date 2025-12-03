@@ -1,9 +1,6 @@
 # 💫 Hi 👋, I'm Rajveer Singh
 🎓 B.Tech Student || 🚀 Aspiring Full Stack Developer (MERN) || 💡 Tech Enthusiast & Problem Solver
 
-📧 Email Me: vrajsingh62444@gmail.com
- — For Collaboration / Job Opportunities / Website Development 😊
-
 🚀 About Me
 
 🔭 I’m currently working on: JobWebsite Development
